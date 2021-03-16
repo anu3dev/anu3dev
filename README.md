@@ -1,20 +1,10 @@
 # Hello World, :pray:	
-I am Anurag. I work as a FullStack Developer.
-````
-Full Stack PHP Developer | Senior Software Engineer at Javnic Solutions | Open for Remote Work
-````
-Add profile section
 
-
-
-I am Anurag. I work as a FullStack Developer.
-
-<br />
-<br />
+I am Anurag. I work as a FullStack Developer. Open for Remote / Freelancing work.
 
 Technologies:
 - HTML, CSS, JavaScript, React.js
-- Node, PHP, CodeIgniter, Laravel
+- Node, PHP, CodeIgniter, Laravel, Node
 
 In my spare time I do freelancing (normally it is about 2-3 hours daily).
 
