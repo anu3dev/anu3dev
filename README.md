@@ -2,7 +2,7 @@
 
 I am Anurag. I work as a FullStack Developer. Open for Remote / Freelancing work.
 
-Technologies:
+Expertise:
 - HTML, CSS, JavaScript, React.js
 - Node, PHP, CodeIgniter, Laravel, Node
 - Web hosting, C-Panel, Domain setup, Email setup, VPS
