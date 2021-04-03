@@ -21,6 +21,8 @@ Also interested in:
   <img align="left" alt="Anurag Kumar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 
+# About my git
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anu3dev&count_private=true&theme=dark&hide=prs,stars,issues&show_icons=true])
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anu3dev&hide=jupyter%20notebook,Java)](https://github.com/anu3dev/github-readme-stats)
