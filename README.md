@@ -20,6 +20,7 @@ Also interested in:
 <a href="https://linkedin.com/in/anu3dev">
   <img align="left" alt="Anurag Kumar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
+<br>
 
 # About my git
 
